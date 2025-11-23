@@ -11,7 +11,7 @@ __Step 1: Clone the Repository__
 Clone this repository into the components folder of your main ESP-IDF project:
 
 `cd YOUR_ESP_IDF_PROJECT/components`   
-`git clone https://github.com/YOUR_USERNAME/pcd8544-driver.git nk5110_driver`
+`git clone https://github.com/Raisback/pcd8544-driver.git nk5110_driver`
 
 __Step 2: Configure the Project__
 
